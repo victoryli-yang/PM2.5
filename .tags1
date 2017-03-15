@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ajax	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^var ajax = function(method, path, data, reseponseCallback) {$/;"	function	line:1
+onreadystatechange	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^    r.onreadystatechange = function() {$/;"	function	line:8
+ajax	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^var ajax = function(method, path, data, reseponseCallback) {$/;"	function	line:1
+dataUrl	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^var dataUrl = function (){$/;"	function	line:17
+ajax	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^    ajax('GET', url, '', function(r) {$/;"	function	line:19
+convertData	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^var convertData = function(data) {$/;"	function	line:227
+convertData	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^    convertData(data.sort(function(a, b){$/;"	function	line:253
+dataUrl	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^var dataUrl = function (){$/;"	function	line:17
+symbolSize	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^            symbolSize: function (val) {$/;"	function	line:393
+symbolSize	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^            symbolSize: function (val) {$/;"	function	line:418
+renderBrushed	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^var renderBrushed = function(params) {$/;"	function	line:459
+setTimeout	C:\Users\Administrator\Desktop\PM2.5\echart\main.js	/^setTimeout(function(){$/;"	function	line:521
