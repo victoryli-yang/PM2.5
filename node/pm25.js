@@ -123,11 +123,13 @@ const _main = function() {
                 const json = jsonFromBody(body)
                 dataFromJSON(data, json)
                 saveJSON(path, data)
+                log('*** 当前时间是:', time)
             } else {
                 log('*** 请求失败', error)
             }
         })
     }
+    var time = new Date()
 }
 
 
